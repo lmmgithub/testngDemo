@@ -83,13 +83,11 @@
 
 
 
-	</dependencies>
-	
+	</dependencies>	
 	
 	
 	 <build>
-        <plugins>
-           
+        <plugins>           
        	   <!-- 添加插件 关联testNg.xml  ，surefire插件其实就是一个容器-->
            <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
